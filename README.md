@@ -1,3 +1,11 @@
+# OpenPCDet only lidar datasets
+
+仅使用激光点云数据实现3D目标检测
+
+相比于KITTI，仅有velodyne以及label_2两个文件夹
+
+代码的修改包括训练和测试两个部分，已经在我们自定义的数据集上进行了验证
+
 <img src="docs/open_mmlab.png" align="right" width="30%">
 
 # OpenPCDet
